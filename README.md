@@ -20,7 +20,7 @@ To run Arthur, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/arthur.git
+    https://github.com/ELIOT-550/Arthur.git
     ```
 
 2. **Navigate to the project directory**:
